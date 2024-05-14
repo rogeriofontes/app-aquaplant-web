@@ -8,6 +8,11 @@ $ json-server --watch clientes.json --port=3003
 http://localhost:3000/clientes
 ```
 ```bash
-$ json-server --watch clientes.json --port=4003
+$ json-server --watch plantas.json --port=4003
 http://localhost:4000/plantas
+```
+
+```bash
+$ json-server --watch clientes.json --port=3031
+http://localhost:3000/clientes
 ```
